@@ -21,10 +21,6 @@ const ClientRow = ({ client }) => {
     // },
   });
 
-  const onDelete = () => {
-    console.log(client.id);
-  };
-
   return (
     <tr>
       <td>{client.name}</td>
