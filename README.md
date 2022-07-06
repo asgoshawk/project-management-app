@@ -1,7 +1,3 @@
----
-title: "Project Management APP"
----
-
 ### Intro
 
 This ia a hand-on project of [GraphQL Crash Course](https://www.youtube.com/watch?v=BcLNfwF04Kw) by Brad Traversy. Also, this is the first MERN project using **GraphQL**. In the frontend, **Apollo Client** was introduced to handle the GraphQL API to attain CRUD functionality.
@@ -10,7 +6,7 @@ This ia a hand-on project of [GraphQL Crash Course](https://www.youtube.com/watc
 
 ### Demo
 
-![Demo](https://i.imgur.com/pNUnbzO.gif)
+![Demo](https://i.imgur.com/UGyah6v.gif)
 
 ---
 
